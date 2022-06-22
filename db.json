@@ -1,0 +1,100 @@
+{
+  "clientes": [
+    {
+      "nombre": "jonatan di benedetto",
+      "empresa": "Desarrollo web ",
+      "email": "correo@correo.com",
+      "tel": "2233333",
+      "notas": "La mejor empresa de desarrollo",
+      "id": 1
+    },
+    {
+      "nombre": "Paulina rubio",
+      "empresa": "paulina producciones ",
+      "email": "correo@correo.com",
+      "tel": "1991919191",
+      "notas": "Produccion musical ",
+      "id": 2
+    },
+    {
+      "nombre": "AInhoa",
+      "empresa": "Stilos & Virtud",
+      "email": "correo2@correo.com",
+      "tel": "12312312312312",
+      "notas": "el mejor estilo y detalles ",
+      "id": 3
+    },
+    {
+      "nombre": "Alexis",
+      "empresa": "DJ moquillo ",
+      "email": "correo5@correo.com",
+      "tel": "",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Florencia",
+      "empresa": "QEnergi",
+      "email": "correoQ@correo.com",
+      "tel": "132132183791",
+      "notas": "Empresa pionera en energia renovavle ",
+      "id": 5
+    },
+    {
+      "nombre": "jonatan",
+      "empresa": "DiscJokey",
+      "email": "correo@correo.com",
+      "tel": "2233333",
+      "notas": "Organizacion de eventos ",
+      "id": 6
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "construcciones Edgar",
+      "email": "edgar@correo.com",
+      "tel": "342345235",
+      "notas": "construcciones y diseño de infraestructuras ",
+      "id": 7
+    },
+    {
+      "nombre": "Edgar Fontana",
+      "empresa": "construcciones Edgar",
+      "email": "edgar@correo.com",
+      "tel": "342345235",
+      "notas": "construcciones y diseño de infraestructuras ",
+      "id": 8
+    },
+    {
+      "nombre": "Isabel AC",
+      "empresa": "Diseños Isabel",
+      "email": "isabe@correo.com",
+      "tel": "213421423",
+      "notas": "pionera en el diseño de moda",
+      "id": 9
+    },
+    {
+      "nombre": "Isabel Actualizado",
+      "empresa": "Diseños Isabel",
+      "email": "isabe@correo.com",
+      "tel": "213421423",
+      "notas": "pionera en el diseño de moda",
+      "id": 10
+    },
+    {
+      "nombre": "Isabel DJ",
+      "empresa": "Diseños Isabel",
+      "email": "isabe@correo.com",
+      "tel": "213421423",
+      "notas": "pionera en el diseño de moda",
+      "id": 11
+    },
+    {
+      "nombre": "Alexis Nuevo AC",
+      "empresa": "nuevo diseño",
+      "email": "correo@correo.com",
+      "tel": "324325353",
+      "notas": "Diseños modernos y baratos ",
+      "id": 12
+    }
+  ]
+}
